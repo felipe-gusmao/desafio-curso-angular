@@ -1,0 +1,15 @@
+.home .mat-card-title {
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1.2;
+    margin-bottom: 15px;
+}
+
+h1 {
+    color: #000000DE;
+    margin-top: 35px;
+}
+
+ol {
+    color: #0000008A;
+}
